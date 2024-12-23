@@ -1,6 +1,6 @@
 # 🎼 **Melody Mart ** 🎶  
 
-Welcome to **Melody Mart** — a dynamic and versatile platform designed to celebrate music and empower both fans and artists. Whether you're here to enjoy music, buy instruments, book recording rooms, or stay connected with your favorite artists, we’ve got you covered!  
+Second yar first semester gruop project **Melody Mart** — a dynamic and versatile platform designed to celebrate music and empower both fans and artists. Whether you're here to enjoy music, buy instruments, book recording rooms, or stay connected with your favorite artists, we’ve got you covered!  
 
 ---
 
